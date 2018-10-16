@@ -1,0 +1,17 @@
+SMAP
+nameView_jsp.java
+JSP
+*S JSP
+*F
++ 0 nameView.jsp
+WEB-INF/nameView.jsp
+*L
+5,10:57
+14:68,10
+15,3:78
+17:82,10
+18:92,5
+19:97
+19,4:114
+22,4:133
+*E
